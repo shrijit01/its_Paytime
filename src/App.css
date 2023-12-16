@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+.linK:focus{
+  border-bottom: 2px solid;
+  border-image: linear-gradient(to right, #3B82F6, #10B981);
+  border-image-slice: 1;
+}
+
+.linK:visited{
+  border-bottom: 2px solid;
+  border-image: linear-gradient(to right, #3B82F6, #10B981);
+  border-image-slice: 1;
 }
