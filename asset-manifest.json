@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/its_Paytime/static/css/main.69c08565.css",
+    "main.js": "/its_Paytime/static/js/main.bf7aa76e.js",
+    "static/js/787.12b611d0.chunk.js": "/its_Paytime/static/js/787.12b611d0.chunk.js",
+    "static/media/logo.svg": "/its_Paytime/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/its_Paytime/index.html",
+    "main.69c08565.css.map": "/its_Paytime/static/css/main.69c08565.css.map",
+    "main.bf7aa76e.js.map": "/its_Paytime/static/js/main.bf7aa76e.js.map",
+    "787.12b611d0.chunk.js.map": "/its_Paytime/static/js/787.12b611d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c08565.css",
+    "static/js/main.bf7aa76e.js"
+  ]
+}
